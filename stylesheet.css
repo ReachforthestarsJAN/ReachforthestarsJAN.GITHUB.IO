@@ -1,13 +1,14 @@
 body {
   background-image: url('download.jpeg');
-  font-family: 'Aldrich';
+  font-family: 'Roboto';
 }
 .Main a{width:200px;
   padding: 5px;
   color: white;
   border: 0;
   background-color: black;
-  margin: 10px; }
+  margin: 10px;
+  text-decoration: none;}
 .Main a:hover {background-color: grey;
  }
 
