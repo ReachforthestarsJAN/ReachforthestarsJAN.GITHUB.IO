@@ -15,7 +15,9 @@ body {
 .Main {text-align: center;}
 
 h1{color: white; text-align: center;}
-
+P{color: white;
+  text-align: center;
+  font-size: 40px; }
 .Content {
   width: 980px;
   margin-left: auto;
